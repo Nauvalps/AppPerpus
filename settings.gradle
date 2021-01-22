@@ -1,0 +1,2 @@
+rootProject.name='AppPerpus'
+include ':app'
